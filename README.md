@@ -1,20 +1,19 @@
-#### Idea
+# Getting Started with booklist
 
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![](./idea.png);
+## Try running it yourself:
 
-#### React Icons
+On this page, click the green Code button and select Download ZIP.
 
-[react icons](https://react-icons.github.io/react-icons/)
+Navigate to the project directory and run:
 
-```
-npm install react-icons --save
-```
+### `npm install` to download dependencies listed in package.json
 
-```javascript
-import { FaHome } from 'react-icons/fa';
-const Component = () => {
-  return <FaHome className='icon'></FaHome>;
-};
-```
+Then run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
