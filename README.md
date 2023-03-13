@@ -1,4 +1,4 @@
-# Getting Started with booklist
+# Getting Started with Random Q&A
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
